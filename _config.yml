@@ -1,0 +1,11 @@
+title: understand_animals
+author:
+description: tools to understand animals
+baseurl: ""
+url: "https://understandanimals.github.io"
+theme: minima
+plugins:
+header_pages:
+ - projects.md
+ - contact.md
+ - about.md
