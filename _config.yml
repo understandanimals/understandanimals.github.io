@@ -1,4 +1,4 @@
-title: understand_animals
+title: understand animals
 author: Amanda Matthes
 description: tools to understand animals
 baseurl: ""
@@ -7,5 +7,5 @@ theme: minima
 plugins:
 header_pages:
  - projects.md
- - contact.md
  - about.md
+ - contact.md
