@@ -43,6 +43,7 @@ body {
     font-family: Assistant;
     color: #111;
     background-color: #fdfdfd;
+    /* background-image: url(../media/test.jpg); */
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
