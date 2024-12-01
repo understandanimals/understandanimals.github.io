@@ -1,11 +1,10 @@
 title: understand animals
 author: Amanda Matthes
-description: tools to understand animals
+description: tools to understand and help animals
 baseurl: ""
 url: "https://understandanimals.github.io"
 theme: minima
 plugins:
 header_pages:
- - projects.md
  - about.md
  - contact.md
