@@ -1,4 +1,4 @@
-# understand_animals
+# understand animals
 
 🚧 under construction
 
